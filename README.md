@@ -72,35 +72,52 @@ It is the **gravity** that holds the universe together.
 
 ## 📁 Repository Structure
 
+
 ```
-it-takes-skill/
-├── SKILL_REGISTRY.json
-├── SKILL_PERIODIC_TABLE.md
-├── skills/
-│   ├── atomic/
-│   ├── molecular/
-│   ├── system/
-│   └── meta/
-├── docs/
-│   ├── architecture.md
-│   └── skill-design-guide.md
-├── governance/
-│   ├── safety-rules.md
-│   └── execution-contracts.md
-├── README.md
-├── ROADMAP.md
-├── MANIFESTO.md
-├── CONTRIBUTING.md
-└── CODE_OF_CONDUCT.md
+
+
+
+
 ```
 
 ---
+it-takes-skill/
+├── .claude/
+├── .github/
+├── .vscode/
+├── agents/
+├── docs/
+├── engine/
+├── governance/
+├── logs/
+├── manifests/
+├── packaging/
+├── pipelines/
+├── reports/
+├── scripts/
+├── skills/
+├── tests/
+├── ui/
+├── workflows/
+├── .gitignore
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── MANIFESTO.md
+├── Makefile
+├── README.md
+├── ROADMAP.md
+├── SKILL_PERIODIC_TABLE.md
+├── SKILL_REGISTRY.json
+└── it-takes-skill.code-workspace
 
 ## 🛠 Getting Started
+```
+
 
 ### **1. Clone the repo**
 ```sh
-git clone https://github.com/crystalclear-list/it-takes-skill.git
+git clone https://github.com/RightOnPar-LLC/it-takes-skill.git
 cd it-takes-skill
 ```
 
@@ -119,7 +136,7 @@ Start with:
 - `SKILL_PERIODIC_TABLE.md`
 
 ### **5. Build your own skill**
-Use the templates in `docs/skill-design-guide.md`.
+Use the templates in `docs/architecture.md`.
 
 ---
 
