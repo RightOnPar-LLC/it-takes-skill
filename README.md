@@ -8,6 +8,15 @@ This repository is the birthplace of that universe.
 
 ---
 
+## Part of the RightOnPar estate
+
+it-takes-skill is the Skill OS framework — 40 composable skills across four layers (atomic, molecular, system, meta), governance-first. Related repos:
+
+- [meshtool-skills](https://github.com/RightOnPar-LLC/meshtool-skills) (public) — skill packs for the Meshtool economic layer: call market capabilities and the agent runtime. **Start here if you're building on Meshtool.**
+- [agent-skills](https://github.com/RightOnPar-LLC/agent-skills) (private) — the estate's operational skill shelf. Source of truth for estate ops; not public.
+
+---
+
 ## 🚀 Why Skill OS Exists
 
 Modern AI systems are powerful but opaque.  
